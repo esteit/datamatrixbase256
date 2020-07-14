@@ -1,6 +1,5 @@
 {
-	"name": "russianpost/datamatrixbase256",
-	"version": "0.0.1",
+	"name": "esteit/datamatrixbase256",
 	"homepage": "http://www.mcentre.spb.ru/",
 	"type": "library",
 	"description": "Russian Post form generate datamatrix Base256 barcode. Based on tcpdf library",
