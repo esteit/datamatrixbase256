@@ -4,7 +4,7 @@
 	"type": "library",
 	"description": "Russian Post form generate datamatrix Base256 barcode. Based on tcpdf library",
 	"keywords": ["Russian Post office","tcpdf","datamatrix base256"],
-	"license": "LGPLv3",
+	"license": "proprietary",
 	"authors": [
 	{
 		"name": "Anatoly Smirnov",
